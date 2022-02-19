@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TimeConverter</label>
+	</settings>
+	<users>
+		<user>
+			<path>TimeConverter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TimeConverter.jcp</path>
+		</project>
+	</projects>
+</workspace>
